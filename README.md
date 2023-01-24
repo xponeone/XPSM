@@ -8,4 +8,4 @@ click <a href="https://github.com/xponeone/XPSM/releases/">here</a> to download
 <br>
 <hr>
 <h3>Donate<h3/>
-<a href="https://www.buymeacoffee.com/xponeone"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png"/></a>
+<a href="https://www.buymeacoffee.com/xponeone"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=xponeone&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
